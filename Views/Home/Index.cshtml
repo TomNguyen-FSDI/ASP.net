@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@section NavieBar{
+     <nav class="navbar navbar-expand-lg navbar-light bg-light "></nav>
+    <script src="./js/site.js"></script>
+}
+@section FooterPrivacy{
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2021 - Task_Manager - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+}
+
+<div>
+    <h1 class="display-4 text-center">Welcome To Task Manager</h1>
+    <p class="text-center">Using <a href="https://docs.microsoft.com/aspnet/core">ASP.NET Core</a> to create a Todo List - Task Manager</p>
+    <br>
+    <br>
+    <p>Click on <a href="./Tasks">Task Manger</a> and start creating a Todo List</p>
+    <br>
+    <h3 class="par-indent">Features:</h3>
+    <ul>
+        <li>Create a task</li>
+        <li>Choose background color for task</li>
+        <li>Delete a task</li>
+        <li>Navigating Bar will bold on active page</li>
+        <li>Show/Hide detail on task information window bar</li>
+        <li>Change priority by importance</li>
+        <li>Store list on local Sqlite database</li>
+        <li>About Me Page</li>
+        <li>Fake Privacy Page</li>
+    </ul>
+</div>

@@ -1,0 +1,140 @@
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.csprojAssemblyReference.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.AssemblyInfoInputs.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.AssemblyInfo.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.RazorAssemblyInfo.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.RazorAssemblyInfo.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\appsettings.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.exe
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.deps.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.runtimeconfig.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.runtimeconfig.dev.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\ref\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.Views.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Task Manager.Views.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\staticwebassets\Task Manager.StaticWebAssets.Manifest.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\staticwebassets\Task Manager.StaticWebAssets.xml
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\scopedcss\bundle\Task Manager.styles.css
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.TagHelpers.input.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.TagHelpers.output.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.RazorCoreGenerate.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Home\Tasks.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.RazorTargetAssemblyInfo.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.RazorTargetAssemblyInfo.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.Views.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.csproj.CopyComplete
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\ref\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\Task Manager\obj\Debug\net5.0\Task Manager.genruntimeconfig.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\appsettings.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.exe
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.deps.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.runtimeconfig.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.runtimeconfig.dev.json
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\ref\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.Views.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Task Manager.Views.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.csprojAssemblyReference.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.AssemblyInfoInputs.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.AssemblyInfo.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.RazorAssemblyInfo.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.RazorAssemblyInfo.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\staticwebassets\Task Manager.StaticWebAssets.Manifest.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\staticwebassets\Task Manager.StaticWebAssets.xml
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\scopedcss\bundle\Task Manager.styles.css
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.TagHelpers.input.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.TagHelpers.output.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.RazorCoreGenerate.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Home\Tasks.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.RazorTargetAssemblyInfo.cache
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.RazorTargetAssemblyInfo.cs
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.Views.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.csproj.CopyComplete
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\ref\Task Manager.dll
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.pdb
+C:\Users\tommi\OneDrive\Desktop\home\projects\FSDI\FSDI 107\CR\obj\Debug\net5.0\Task Manager.genruntimeconfig.cache

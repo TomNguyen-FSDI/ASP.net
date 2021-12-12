@@ -1,0 +1,48 @@
+
+h2,h3{
+    text-align: center;
+    margin:0 0 10px 0;
+}
+h3{
+    font-size: 25px;
+    font-weight: 300;
+    color: #027683;
+    margin:40px 0 40px 0; /*top right bottom left*/
+}
+p{
+    line-height: 2;
+}
+
+
+.icon-container{
+    background-color:#e4d50b;
+    width: 100px;
+    height:100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+}
+
+.icon-container1{
+    margin:0;
+    padding:0;
+}
+.icon-container1 img{
+    border-radius: 50%;
+    margin:0;
+    width: 100px;
+    height: 100px;
+}
+
+.service-box{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding:40px;
+}
+.profilename{
+    text-decoration: none;
+}
+
